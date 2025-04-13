@@ -23,7 +23,7 @@ This is a personal project using **project management techniques** to plan a tri
 
 Visual timeline of planning & trip activities:
 
-![Gantt Chart](project-plan/gantt-chart.png)
+![Gantt Chart]project-plan/GanttChart.PNG
 
 ---
 
